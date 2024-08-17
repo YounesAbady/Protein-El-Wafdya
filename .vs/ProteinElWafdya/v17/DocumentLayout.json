@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Freelancing\\Family_Project\\ProteinElWafdy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFC4E1-0103-4CB3-AD9E-F08EDA8305BA}|DataAccessLayer\\DataAccessLayer.csproj|d:\\freelancing\\family_project\\proteinelwafdy\\dataaccesslayer\\dataaccesslayerinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AFC4E1-0103-4CB3-AD9E-F08EDA8305BA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayerinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AFC4E1-0103-4CB3-AD9E-F08EDA8305BA}|DataAccessLayer\\DataAccessLayer.csproj|d:\\freelancing\\family_project\\proteinelwafdy\\dataaccesslayer\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AFC4E1-0103-4CB3-AD9E-F08EDA8305BA}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D335F0-0E04-40A4-B39B-3DAEDD2636AF}|API\\API.csproj|d:\\freelancing\\family_project\\proteinelwafdy\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D335F0-0E04-40A4-B39B-3DAEDD2636AF}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5881B9F5-8C2B-425A-934F-054F4152A9B3}|BusinessLayer\\BusinessLayer.csproj|d:\\freelancing\\family_project\\proteinelwafdy\\businesslayer\\businesslayerinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5881B9F5-8C2B-425A-934F-054F4152A9B3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\businesslayerinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Freelancing\\Family_Project\\ProteinElWafdy\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\Freelancing\\Family_Project\\ProteinElWafdy\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:02:27.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessLayerInjection.cs",
+              "DocumentMoniker": "D:\\Freelancing\\Family_Project\\ProteinElWafdy\\BusinessLayer\\BusinessLayerInjection.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BusinessLayerInjection.cs",
+              "ToolTip": "D:\\Freelancing\\Family_Project\\ProteinElWafdy\\BusinessLayer\\BusinessLayerInjection.cs",
+              "RelativeToolTip": "BusinessLayer\\BusinessLayerInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:00:49.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Freelancing\\Family_Project\\ProteinElWafdy\\DataAccessLayer\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Context.cs",
+              "ToolTip": "D:\\Freelancing\\Family_Project\\ProteinElWafdy\\DataAccessLayer\\Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:55:06.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccessLayerInjection.cs",
+              "DocumentMoniker": "D:\\Freelancing\\Family_Project\\ProteinElWafdy\\DataAccessLayer\\DataAccessLayerInjection.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayerInjection.cs",
+              "ToolTip": "D:\\Freelancing\\Family_Project\\ProteinElWafdy\\DataAccessLayer\\DataAccessLayerInjection.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayerInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:53:52.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
